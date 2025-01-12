@@ -40,7 +40,7 @@ pip install streamlit chromadb langchain-ollama
 ### Clone the Repository:
 You can clone the repository from GitHub:
 ```bash
-git clone https://github.com/shyr1es/Advanced-Programming-Nurda-Dima-Ernur-.git
+git clone https://github.com/shyr1es/Advanced-Programming-Nurda-Dima-Ernur--2Assignment.git
 cd Advanced-Programming-Nurda-Dima-Ernur-
 ```
 ### Install Dependencies:
