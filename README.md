@@ -62,12 +62,13 @@ Both the query and the response will be saved in ChromaDB for future reference.
 
 ### Terminal Feedback:
 The terminal will show messages indicating that the query and response have been successfully saved in the database.
-![image](https://github.com/user-attachments/assets/4173a8b9-2bc3-4f41-940f-4f01957a37bd)
 
 
 ### Example of How It Works
-User Query: "What is the weather like today?"
-Model Response: "I don't have access to live data, but you can check the weather online."
-![image](https://github.com/user-attachments/assets/bf6794d2-030d-43ea-9e73-30326e0178da)
+![image](https://github.com/user-attachments/assets/1e87b333-0013-4403-a6f1-687e3e8a7672)
+![image](https://github.com/user-attachments/assets/e77e6704-7b53-492e-aa04-7758b26d1b65)
+![image](https://github.com/user-attachments/assets/8b8ac4de-7953-40ee-a910-221db33a40b6)
+![image](https://github.com/user-attachments/assets/3289b6a8-3166-4dd2-9e4e-4be654615565)
 
-Saved in ChromaDB: Both the user query and the response are stored in the database.
+
+
