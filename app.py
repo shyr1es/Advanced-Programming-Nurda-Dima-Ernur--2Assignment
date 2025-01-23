@@ -23,6 +23,7 @@ def query_chromadb(query_text, n_results=3):
     """Запрос в ChromaDB."""
     try:
         results = collection.query(query_texts=[query_text], n_results=n_results)
+        print("ChromaDB Results:", results)
         return results
     except Exception as e:
         print(f"Error querying ChromaDB: {e}")
